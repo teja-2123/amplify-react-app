@@ -7,7 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V2</h1>
+        <h1>Idi Nene</h1>
+        <h1>Rithvik gadiki theeripoyindi</h1>
+        <h1>Akhila ninna em jarigindo chepaledu eeeyyyyuuuuu</h1>
       </header>
     </div>
   );
